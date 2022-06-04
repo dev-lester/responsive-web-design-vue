@@ -15,3 +15,4 @@ export default {
 @import "style.css";
 </style>
 
+// TODO: Add mobile version 
